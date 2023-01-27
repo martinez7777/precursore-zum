@@ -1,2 +1,1 @@
-# precursore-zum
-Este es un precursor de prueba para el modulo 2 de Henrry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a computadora 
